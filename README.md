@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm KARTHIK GANESH</h1>
 <h3 align="center">A passionate Cybersecurity Student/Maven from India</h3>
 
-- 🔭 I’m currently working on [Intrusion Detection and Prevention](https://github.com/Karthik7375/IDS_IPS)
-
 - 🌱 I’m currently learning **Flask, MERN Stack, Cybersecurity**
 
 - 💬 Ask me about **Pentesting and ML/AI**
