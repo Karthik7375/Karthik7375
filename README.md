@@ -1,5 +1,10 @@
 # 💫 About Me:
-Intrusion Detection and Prevention Systems<br>Cybersecurity Projects<br>LLM Models<br>Penetration Testing and Offensive Security<br>
+
+MY NAME IS KARTHIK GANESH <br>
+🔭 I’m currently working on Intrusion Detection and Prevention Systems<br>
+🌱 I’m currently learning Penetration Testing and Offensive Security<br>
+💬 Ask me about Offensive Security <br>
+⚡ Fun fact ->  I am a calinstenics person
 
 
 ## 🌐 Socials:
