@@ -26,7 +26,7 @@ A custom non-script, YAML-based CI engine.
 - Real-time build streaming to stdout for live execution visibility
 - Modular architecture with clean separation of concerns
 
-### [BiLSTM Log Correlation](https://github.com/Karthik7375/SMPC) · Rust
+### [BiLSTM Log Correlation](https://github.com/Karthik7375/bilstm_log_correlation) · Rust
 A BiLSTM-based log correlation engine.
 - Custom tensor operations, vocabulary processing, and log parsing
 - Timestamp-based event correlation across log sequences
@@ -54,13 +54,6 @@ An AI-powered health assistant backed by an open-source LLM via Groq's API.
 - Kubernetes fundamentals
 
 ---
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Karthik7375&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik7375&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-</p>
 
 ---
 
