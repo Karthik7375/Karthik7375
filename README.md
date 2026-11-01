@@ -26,6 +26,12 @@ A custom non-script, YAML-based CI engine.
 - Real-time build streaming to stdout for live execution visibility
 - Modular architecture with clean separation of concerns
 
+### [DNS Threat Audit](https://github.com/Karthik7375/Dns-Threat-Audit) · Rust
+DNS auditing tool for detecting suspicious domain patterns and known malicious indicators.
+- Custom pluggable detectors easily with a template and easy to integrate without distrubing the pipeline.
+- Modular Architecture and loosely coupled architecture with clean seperation of concerns.
+- Testing with Python to test all the detectors present and ddos detection inbuilt.
+
 ### [BiLSTM Log Correlation](https://github.com/Karthik7375/bilstm_log_correlation) · Rust
 A BiLSTM-based log correlation engine.
 - Custom tensor operations, vocabulary processing, and log parsing
@@ -37,8 +43,6 @@ Secure Multi-Party Computation secret sharing over GF(256).
 - Secret splitting into shares + reconstruction of the original secret
 - Containerized with Docker, benchmarked under varying CPU/memory limits
 
-### [DNS Threat Audit](https://github.com/Karthik7375/Dns-Threat-Audit) · Rust
-DNS auditing tool for detecting suspicious domain patterns and known malicious indicators.
 
 ### [AI Health Assistant](https://github.com/Karthik7375/AI_Powered_Health_Assistant) · Python, Streamlit
 An AI-powered health assistant backed by an open-source LLM via Groq's API.
