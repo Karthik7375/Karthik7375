@@ -1,8 +1,10 @@
-# 💫 About Me:
+#  About Me:
 
-MY NAME IS KARTHIK GANESH <br>
+MY NAME IS KARTHIK <br>
 💬 Ask me about Cloud And Devops.
 ⚡ Fun fact ->  I am a calinstenics person.
+
+# I LIKE TO BREAK THINGS IN THE CLOUD AND THEN FIGURE OUT WHAT GOES WRONG. SEEMS FUN.
 
 
 ## 🌐 Socials:
