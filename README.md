@@ -18,39 +18,6 @@ Open to:   Cloud/DevOps and SRE internships and roles
 
 ---
 
-## 🚀 Projects
-
-### [CI Engine](https://github.com/Karthik7375/CI_Engine) · Go, YAML
-A custom non-script, YAML-based CI engine.
-- Topological sorting of build jobs for Go and Rust projects
-- Real-time build streaming to stdout for live execution visibility
-- Modular architecture with clean separation of concerns
-
-### [DNS Threat Audit](https://github.com/Karthik7375/Dns-Threat-Audit) · Rust
-DNS auditing tool for detecting suspicious domain patterns and known malicious indicators.
-- Custom pluggable detectors easily with a template and easy to integrate without distrubing the pipeline.
-- Modular Architecture and loosely coupled architecture with clean seperation of concerns.
-- Testing with Python to test all the detectors present and ddos detection inbuilt.
-
-### [BiLSTM Log Correlation](https://github.com/Karthik7375/bilstm_log_correlation) · Rust
-A BiLSTM-based log correlation engine.
-- Custom tensor operations, vocabulary processing, and log parsing
-- Timestamp-based event correlation across log sequences
-- Synthetic log generation to evaluate correlation performance
-
-### [SMPC Framework](https://github.com/Karthik7375/SMPC) · Rust
-Secure Multi-Party Computation secret sharing over GF(256).
-- Secret splitting into shares + reconstruction of the original secret
-- Containerized with Docker, benchmarked under varying CPU/memory limits
-
-
-### [AI Health Assistant](https://github.com/Karthik7375/AI_Powered_Health_Assistant) · Python, Streamlit
-An AI-powered health assistant backed by an open-source LLM via Groq's API.
-- Prompt-engineered for personalized health recommendations
-- Streamlit frontend with secure coding practices throughout
-
----
-
 ## 🎯 Currently Learning
 
 - Observability in depth: Prometheus, Grafana, OpenTelemetry
